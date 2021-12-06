@@ -16,5 +16,18 @@ git commit
 ```
 This site was built using [Git Pages](https://pages.github.com/).
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only) 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
+
+- George Washington
+- Jogn Adams
+- Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+First list item
+- First nested list item
+  - First nested list item
+  - Second nested list item
 
