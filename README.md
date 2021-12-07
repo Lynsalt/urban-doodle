@@ -37,5 +37,5 @@ First list item
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that have't been staged. |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that have't been staged. |
