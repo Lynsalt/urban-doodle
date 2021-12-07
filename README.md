@@ -44,3 +44,8 @@ First list item
 |:---         |    :---:       |           ---:|
 |git status   | git status     | git status    |
 |git diff     | git diff       | git diff      |
+
+|Name    | Character |
+|---     | ---       |
+|Backtic | `         |
+|Pipe    | \|        |
