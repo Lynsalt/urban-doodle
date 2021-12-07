@@ -31,6 +31,6 @@ First list item
   - First nested list item
   - Second nested list item
 
-|First Header|
-|------------|
-|content cell|
+|First Header|Second Header| Third Header |
+|------------|-------------|------------- | 
+|content cell|content cell | content cell |
